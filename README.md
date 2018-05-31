@@ -1,2 +1,2 @@
 # nombreRepositorio
-opcional
+cualquier cosa
